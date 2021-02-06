@@ -160,6 +160,12 @@ namespace WebLastHope.Controllers
 
             return "Nueve Millones ";
         }
+        //hola mundo   
+
+
+
+
+
 
         private string Centena(char x)
         {
@@ -186,6 +192,12 @@ namespace WebLastHope.Controllers
 
         }
 
+
+
+        //ssssss  
+
+
+
         private string Decena(char x)
         {
             if (x == '1')
@@ -209,6 +221,17 @@ namespace WebLastHope.Controllers
             return " ";
         }
 
+
+
+        // porrfeeeeee
+        //me va a explotar la caaaa beeeezaaaa
+
+
+
+
+
+
+        
         private string Unidad(char x)
         {
             if (x == '1')
